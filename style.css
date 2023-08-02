@@ -1,0 +1,20 @@
+.top {
+    background-color: blue;
+    font-size: 15px;
+    line-height: 27px;
+}
+body {
+    margin: 0;
+}
+li{
+    display: inline;
+    float: right;
+    margin-right: 6px;
+
+}
+.mail {
+  
+}
+.telephone{
+    margin-left: 6px;
+}
